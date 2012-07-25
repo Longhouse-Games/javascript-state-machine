@@ -1,0 +1,18 @@
+{
+  "name": "javascript-state-machine",
+  "version": "0.1.0",
+  "description": "A finite state machine javascript micro framework",
+  "main": "lib/state-machine.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "open test/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Longhouse-Games/javascript-state-machine.git"
+  },
+  "author": "Jake Gordon <jake@codeincomplete.com>",
+  "license": "BSD"
+}
